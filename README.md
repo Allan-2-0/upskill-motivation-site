@@ -29,8 +29,8 @@ this site asists alot in changing ones mentality and motivates one to do more th
   </nav>
 
   <section>
-    <h2>🌞 Daily Motivational Quote</h2>
-    <p id="quote-box">Loading quote...</p>
+    <h2>🌞 Weekly Motivational Quote</h2>
+    <p id="quote-box">"Success is not final, failure is not fatal: It is the courage to continue that counts. – Winston Churchill",</p>
   </section>
 
   <section>
